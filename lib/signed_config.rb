@@ -6,5 +6,5 @@ require 'signed_config/reader'
 require 'signed_config/writer'
 
 module SignedConfig
-  VERSION = "0.0.1"
+  VERSION = "0.0.2"
 end
