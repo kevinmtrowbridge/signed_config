@@ -9,10 +9,10 @@ Gem::Specification.new do |s|
   s.version     = SignedConfig::VERSION
   s.authors = ["Kevin Trowbridge"]
   s.email = ["kevinmtrowbridge@gmail.com"]
-  s.homepage = "http://www.kevinmtrowbridge.com"
+  s.homepage = "https://github.com/kevinmtrowbridge/signed_config"
   s.summary = "Cryptograpically sign a configuration hash.  A way to enforce configuration / licensing of an installed Ruby application."
   s.license = "MIT"
 
-  s.files = Dir["lib/**/*", "README.md"]
+  s.files = Dir["lib/**/*", "README.md", "MIT_LICENSE"]
   s.test_files = Dir["test/**/*"]
 end

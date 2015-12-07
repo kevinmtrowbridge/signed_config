@@ -47,6 +47,7 @@ on clients' servers.  (This is not unusual for an "enterprise application," howe
 
 
 ## Example of generated license:
+```
 
 =========================BEGIN BRANDED LICENSE=========================
 ---
@@ -69,7 +70,7 @@ on clients' servers.  (This is not unusual for an "enterprise application," howe
   rhEqh8fza8jagTbmzBtpsXyyTd4ZAusXuwc7uMTtFQ==
 
 =========================END BRANDED LICENSE=========================
-
+```
 
 ## How "secure" is this? 
 
