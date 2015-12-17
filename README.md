@@ -1,5 +1,9 @@
 # SignedConfig
 
+Cryptograpically sign a configuration hash. A way to (lightly) enforce configuration / licensing of an installed Ruby application.
+
+-----
+
 SignedConfig has two modes: 
 
 Writer mode : intended to be used by a sort of "licensing console", takes a config hash and a private key and generates 
